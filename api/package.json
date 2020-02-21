@@ -1,0 +1,9 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Camus API",
+  "main": "index.js",
+  "repository": "https://github.com/deeckard/camus",
+  "author": "Gabriel",
+  "license": "MIT"
+}
